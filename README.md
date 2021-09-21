@@ -27,4 +27,4 @@
 </p>
 
 :mortar_board: Repositório de certificados
-- <a href="">Click aqui</a> e tenha acesso aos certificados emitidos (*Editando)
+- <a href="https://github.com/RamonLuz/Certificados">Click aqui</a> e tenha acesso aos certificados emitidos (*Editando)
