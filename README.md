@@ -8,7 +8,7 @@
 </div>
 
 - :technologist: Trabalho com teste de software
-- :boy::books: Estudando Java e Automação
+- :boy::books: Estudando Automação Java, Ruby e Cypress
 
 :books: Estudando neste momento
  <div style="display: inline_block">
