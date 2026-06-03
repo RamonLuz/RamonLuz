@@ -53,3 +53,107 @@
 ## 🌱 Atualmente Estudando
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+## 👨‍💻 Seja bem-vindo ao meu GitHub
+
+Olá! Sou **Ramon Luz**, QA Engineer / Software Quality Analyst com mais de **5 anos de experiência** em qualidade de software.
+
+Tenho experiência em testes **Web, API e Mobile**, atuando com testes manuais e automatizados, análise de requisitos, elaboração de cenários, integração contínua e garantia da qualidade em ambientes ágeis.
+
+Atualmente estou direcionando minha evolução para uma atuação como **Senior QA / SDET**, aprofundando conhecimentos em **Java, Spring Boot, Selenium, Rest Assured, JUnit 5, Mockito, Docker e CI/CD**.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<a href="https://github.com/RamonLuz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RamonLuz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</a>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonLuz&layout=compact&langs_count=8&theme=dracula"/>
+
+</div>
+
+---
+
+## 🚀 Sobre mim
+
+* 🔭 QA Engineer com foco em qualidade e automação de testes.
+* 💻 Experiência em aplicações Web, APIs e Mobile.
+* 🧪 Automação com Selenium, Playwright, Cypress, Appium e Behave.
+* ☕ Evoluindo em Java e ecossistema Spring.
+* 📚 Estudando arquitetura de testes e práticas de SDET.
+* 🚀 Apaixonado por qualidade de software e melhoria contínua.
+
+---
+
+## 💼 Experiência
+
+### 🔹 Compass.UOL
+
+* Testes Web e APIs;
+* Automação de testes;
+* Trabalho em times ágeis.
+
+### 🔹 Minsait
+
+* Testes funcionais;
+* Validação de APIs;
+* Planejamento e execução de testes.
+
+### 🔹 Certisign
+
+* Garantia da qualidade;
+* Criação de cenários e evidências;
+* Testes Web.
+
+### 🔹 Meta
+
+* Testes Web e Mobile;
+* Apoio à melhoria contínua dos processos de qualidade.
+
+---
+
+## 🎯 Objetivos
+
+Atualmente meu foco é fortalecer minhas habilidades em:
+
+* ☕ Java
+* 🌱 Spring Boot
+* 🧪 Selenium
+* 🔗 Rest Assured
+* ✅ JUnit 5
+* 🎭 Mockito
+* 🐳 Docker
+* ⚙️ CI/CD
+* 📈 Performance Testing com JMeter
+* 🏗️ Test Architecture
+* 🤖 SDET
+
+---
+
+```java
+public class RamonLuz {
+
+    public static void main(String[] args) {
+
+        String role = "QA Engineer";
+        String goal = "Senior QA / SDET";
+
+        System.out.println("Quality First 🚀");
+    }
+}
+```
+
+---
+
+## 📫 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](SEU_LINKEDIN)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/RamonLuz)
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:SEU_EMAIL)
+
