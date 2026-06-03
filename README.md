@@ -64,20 +64,6 @@ Atualmente estou direcionando minha evolução para uma atuação como **Senior 
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<a href="https://github.com/RamonLuz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RamonLuz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</a>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonLuz&layout=compact&langs_count=8&theme=dracula"/>
-
-</div>
-
----
-
 ## 🚀 Sobre mim
 
 * 🔭 QA Engineer com foco em qualidade e automação de testes.
@@ -151,9 +137,7 @@ public class RamonLuz {
 
 ## 📫 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](SEU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ramonluz/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/RamonLuz)
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:SEU_EMAIL)
 
